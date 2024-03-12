@@ -28,9 +28,7 @@ I'm a full-stack software developer 👨‍💻 based in Bavaria, Germany 🇩�
 <img alt="React.js" align="left"  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img alt="React Native" align="left"  src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img alt="Firebase" src="https://img.shields.io/badge/firebase-%2320232a.svg?style=for-the-badge&logo=firebase" />
-<img alt="Vue.js" src="https://img.shields.io/badge/mongodb-%2335495e.svg?style=for-the-badge&logo=mongodb&logoColor=%234FC08D" />
-<img alt="JAVA" src="https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=java" />
-<img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
+<img alt="mongodb" src="https://img.shields.io/badge/mongodb-%2335495e.svg?style=for-the-badge&logo=mongodb&logoColor=%234FC08D" />
 
 ## 🌍 Languages
 
