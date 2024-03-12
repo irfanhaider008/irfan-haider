@@ -32,6 +32,7 @@ I'm a full-stack software developer 👨‍💻 based in Bavaria, Germany 🇩�
 <img alt="Python" align="left"  src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 
 
+
 ## 🌍 Languages
 
 🇬🇧 English (Fluent)<br/>
