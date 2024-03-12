@@ -1,6 +1,6 @@
 ## 👋 Hello there! I'm Irfan Haider,
 
-I'm a full-stack software developer 👨‍💻 based in Bavaria, Germany 🇩🇪.
+I'm a full-stack software developer 👨‍💻
 
 ### 🔗 Connect with me on:<br />
 
@@ -35,7 +35,4 @@ I'm a full-stack software developer 👨‍💻 based in Bavaria, Germany 🇩�
 
 
 
-## 🌍 Languages
 
-🇬🇧 English (Fluent)<br/>
-🇩🇪 German (Conversational)
