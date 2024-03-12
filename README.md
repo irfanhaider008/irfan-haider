@@ -7,7 +7,7 @@ I'm a full-stack software developer 👨‍💻 based in Bavaria, Germany 🇩�
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mirfanhaider/)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:mirfanhaider008@gmail.com)
 
-💼 I specialize in mobile development with React Native 📱, bringing 4️⃣ years of experience to the table.
+💼 I specialize in mobile development with React Native 📱, and web development with React 💻 bringing 4️⃣ years of experience to the table.
 
 🚀 My journey as a software developer has been a thrilling ride 🎢, filled with exciting challenges 💪.
 
@@ -17,7 +17,6 @@ I'm a full-stack software developer 👨‍💻 based in Bavaria, Germany 🇩�
 
 😃 Let's collaborate and create something awesome together! 🤝
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=irfanhaider008&show_icons=true&theme=radical" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanhaider008&layout=compact" />
 
 ## 🔧 Technologies & Tools
