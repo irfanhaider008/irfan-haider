@@ -17,7 +17,7 @@ I'm a full-stack software developer 👨‍💻 based in Bavaria, Germany 🇩�
 
 😃 Let's collaborate and create something awesome together! 🤝
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanhaider008&layout=compact" />
+<img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanhaider008&layout=compact" />
 
 ## 🔧 Technologies & Tools
 
